@@ -21,9 +21,9 @@ title_separator          : "|" # SEO-friendly (search engine optimization)
 subtitle                 : "kitchen notes" # site tagline that appears below site title in masthead
 name                     : "Yutong LIU"
 description              : "recipes|zerofoodwaste"
-url                      : "https://yutongliu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/YutongLiu" # the subpath of your site, e.g. "/blog"
-repository               : "YutongLiu/YutongLiu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : # "https://yutongliu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # "/YutongLiu" # the subpath of your site, e.g. "/blog"
+repository               : # "YutongLiu/YutongLiu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/teaser_v2.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo_v2.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "好好吃饭" # overrides the website title displayed in the masthead, use " " for no title
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Yutong LIU"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "在厨房或者菜市场 "
   location         : "Somewhere"
   email            :
@@ -127,7 +127,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/stellalalala414"
 
 # Site Footer
 footer:
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/stellalalala414"
 
 
 # Reading Files
