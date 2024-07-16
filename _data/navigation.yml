@@ -1,12 +1,12 @@
 # main links
 main:
+  # - title: "与母亲聊家常菜"
+  #   url: https://www.google.com/
+  # - title: "Gallary"
+  #   url: https://www.bing.com/
+  # - title: "随机应变"
+  #   url: https://jekyllrb.com/
+  # - title: "Aha moment"
+  #   url: https://github.com/
   # - title: "About"
   #   url: /about.md
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
