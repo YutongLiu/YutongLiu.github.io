@@ -66,17 +66,20 @@ b)	Submerge the claypot in warm water, dry and rub a thin layer of oil over the 
 ![new older claypot](/assets/images/2025-05-30-claypot-rice/10.JPG "(Left：a brand new claypot /Right：an older claypot)")
 
 [1] Short-grain rice and long-grain rice are both available, it depends on personal preference, generally long-grain rice needs more water when cooking
-![不同大米](/assets/images/2025-05-30-claypot-rice/9.JPG "Different kinds of rice")
+![Different kinds of rice](/assets/images/2025-05-30-claypot-rice/9.JPG "Different kinds of rice")
+
 [2] Neutral oil is recommended if you don’t want the flavor of oil soaked in the claypot  
 
 
 **Fix undercooked rice due to lack of water**
+![Different kinds of rice](/assets/images/2025-05-30-claypot-rice/17.JPG "More detail in the video 10:15")
 
 (1) Blanch the undercooked rice and strain
 (2) Put it back to the claypot and cook over low heat for about 10 minutes until it's well cooked
 
 
 **Store rinsed rice properly** when schedule changes or batch cooking:
+*More detail in the video 10:36*
 
 (1) Strain the rinsed rice, cover with a moist kitchen towel
 (2) Seal and keep in refrigerator 24h
