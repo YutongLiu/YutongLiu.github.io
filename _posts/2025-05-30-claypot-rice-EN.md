@@ -8,16 +8,14 @@ header:
   teaser: https://img.youtube.com/vi/FzKH2nYW2K8/0.jpg
 ---
 
+![Claypot white rice](/assets/images/2025-05-30-claypot-rice/0.png)
+
 
 **RECIPE**
 
 
 
-
 **Claypot white rice**
-
-
-![Claypot white rice](/assets/images/2025-05-30-claypot-rice/0.png)
 
 
 
