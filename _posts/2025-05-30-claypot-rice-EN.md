@@ -109,7 +109,7 @@ b)	Submerge the claypot in warm water, dry and rub a thin layer of oil over the 
 (3)	Dirt remains easily due to the pores on the surface of claypot, but claypot gets better as it gets older
 
 
-![new older claypot](/assets/images/2025-05-30-claypot-rice/10.jpg)
+![new older claypot](/assets/images/2025-05-30-claypot-rice/10.JPG)
 
 
 (Left：a brand new claypot /Right：an older claypot)
