@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "default" "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "zh-CN" # ui-text.yml
-title                    : "钢铁小包的厨房笔记本"
+title                    : "钢铁小包"
 title_separator          : "|" # SEO-friendly (search engine optimization)
 subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "钢铁小包"
@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "钢铁小包"
   avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Le bonheur, c'est de cultiver son jardin"
+  bio              : "一个做饭的人"
   location         : "Somewhere"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "gtxb250525@qq.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -125,9 +125,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/stellalalala414"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/stellalalala414"
 
 # Site Footer
 footer:
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/stellalalala414"
+      #url: "https://instagram.com/stellalalala414"
 
 
 # Reading Files
