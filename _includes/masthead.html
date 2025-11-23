@@ -7,10 +7,22 @@
         {% unless logo_path == empty %}
           <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
         {% endunless %}
+        <!-- site-title如果改动，不能直接注释整段，会影响width计算，进而priority plus出问题 -->
         <a class="site-title" href="{{ '/' | relative_url }}">
           {{ site.masthead_title | default: site.title }}
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
+        <!-- 虽然在jquery.greedy-navigation.js availableSpace减去了两个icon的宽度,但显示起来还是有点遮挡 -->
+        <a class="mh-yt-icon" href="https://www.youtube.com/@gtxb">
+          <i class="fab fa-fw fa-youtube" style="color:#bb0000;"></i>
+        </a>
+        <a class="mh-bl-icon" href="https://space.bilibili.com/10235737">
+          <i class="fa-brands fa-bilibili" style="color: #23ADE5;"></i>
+        </a>
+        <!-- <a href="https://yutongliu.github.io/" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+          <i class="fa-brands fa-weixin" style="color: #09B83E;"></i>
+        </a> -->
+
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
             <li class="masthead__menu-item">

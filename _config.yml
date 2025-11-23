@@ -12,22 +12,22 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "zh-CN" # ui-text.yml
-title                    : "钢铁小包"
+locale                   : "en" # ui-text.yml
+title                    : "GTXB"
 title_separator          : "|" # SEO-friendly (search engine optimization)
-subtitle                 : "" # site tagline that appears below site title in masthead
+subtitle                 : # "烹饪博客 食谱 cooking blog recipes" # site tagline that appears below site title in masthead
 name                     : "钢铁小包"
-description              : "recipes|zerofoodwaste"
-url                      : # "https://yutongliu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # "/YutongLiu" # the subpath of your site, e.g. "/blog"
-repository               : # "YutongLiu/YutongLiu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/teaser_jardin.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # "/assets/images/logo_v2.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "" # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : true # true, false (default)
+description              : " "
+url                      : #"https://yutongliu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : #"/GTXB" # the subpath of your site, e.g. "/blog" 本地运行时不加
+repository               : #"YutongLiu/YutongLiu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "/assets/images/splash1.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : #"/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : #"GTXB" # overrides the website title displayed in the masthead, use " " for no title
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "钢铁小包"
+  name             : "钢铁小包|GTXB"
   avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "一个做饭的人"
-  location         : "Beijing, China"
+  bio              : "一个做饭的人, a cook"
+  location         : "北京 Beijing, China"
   email            : "gtxb250525@qq.com"
   links:
     - label: "YouTube"
@@ -116,15 +116,21 @@ author:
     - label: "Bilibili"
       icon: "fa-brands fa-bilibili"
       url: "https://space.bilibili.com/10235737"
+    - label: "小红书"
+      icon: "fas fa-fw fa-link"
+      url: "https://xhslink.com/m/m2FNE63wtB"
+    - label: "微信公众号"
+      icon: "fa-brands fa-weixin"
+      url: "https://yutongliu.github.io/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/stellalalala414"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/YutongLiu/"
-      # - label: "Email"
-      #   icon: "fas fa-fw fa-envelope-square"
-      #   url: "gtxb250525@qq.com"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "gtxb250525@qq.com"
       #    - label: "Twitter"
       #      icon: "fab fa-fw fa-twitter-square"
       #      # url: "https://twitter.com/"
@@ -135,30 +141,33 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@gtxb"
+    - label: "Bilibili"
+      icon: "fa-brands fa-bilibili"
+      url: "https://space.bilibili.com/10235737"
+    - label: "小红书"
+      icon: "fas fa-fw fa-link"
+      url: "https://xhslink.com/m/m2FNE63wtB"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/stellalalala414"
+      url: "https://instagram.com/stellalalala414"
+    - label: "微信公众号"
+      icon: "fa-brands fa-weixin"
+      url: "/about/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/YutongLiu/"
+
 
 
 # Reading Files
 include:
   - .htaccess
   - _pages
+  # - _cn_pages
+  # - _en_pages
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -218,12 +227,20 @@ sass:
   sass_dir: _sass
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
+# collections: cn & en
+# collections:
+#   cn_pages:
+#     output: true
+#     permalink: /:collection/:path/
+#   en_pages:
+#     output: true
+#     permalink: /:collection/:path/
 
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# permalink: /:categories/:title/
+# paginate: 5 # amount of posts to show
+# paginate_path: /:categories/page:num/ #/page:num/
+# timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -233,6 +250,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  # - jekyll-archives
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -287,10 +305,41 @@ defaults:
       path: ""
       type: posts
     values:
+      layout: single-posts
+      author_profile: false
       show_date: true
-      layout: single
-      author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # #cn_pages
+  # - scope:
+  #     path: /cn_pages/
+  #     type: posts
+  #   values:
+  #     show_date: true
+  #     layout: single
+  #     author_profile: false
+  #     read_time: true
+  #     comments: # true
+  #     share: true
+  #     related: true
+  # #en_pages
+  # - scope:
+  #     path: /en_pages/
+  #     type: posts
+  #   values:
+  #     show_date: true
+  #     layout: single
+  #     author_profile: false
+  #     read_time: true
+  #     comments: # true
+  #     share: true
+  #     related: true

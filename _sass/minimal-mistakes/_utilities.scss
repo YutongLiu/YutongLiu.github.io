@@ -242,7 +242,8 @@ body:hover .visually-hidden button {
   .fa-github,
   .fa-github-alt,
   .fa-github-square {
-    color: $github-color;
+    // color: $github-color;
+    color: #ffffff;
   }
 
   .fa-gitlab {
@@ -317,7 +318,8 @@ body:hover .visually-hidden button {
   }
 
   .fa-youtube {
-    color: $youtube-color;
+    // color: $youtube-color;
+    color: #bb0000;
   }
 
   .fa-xing,
@@ -325,10 +327,12 @@ body:hover .visually-hidden button {
     color: $xing-color;
   }
 
-  // .fa-bilibili {
-  //   color: $bilibili-color;
-  // }
-
+  .fa-bilibili {
+    color: #23ADE5;
+  }
+  .fa-weixin {
+    color: #09B83E;
+  }
 }
 
 /*
