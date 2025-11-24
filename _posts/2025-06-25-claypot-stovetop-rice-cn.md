@@ -1,7 +1,7 @@
 ---
 title: "大灶眼煮饭"
 toc: true
-toc_label: "大灶眼煮饭"
+toc_label: "本页目录"
 header:
   teaser: /assets/images/claypot-stovetop-rice/teaser.jpg
 sidebar:

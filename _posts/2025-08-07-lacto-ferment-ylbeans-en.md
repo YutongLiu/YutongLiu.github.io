@@ -1,5 +1,5 @@
 ---
-title: "发酵酸豆角"
+title: "Fermenting yard-long beans"
 canonical_url: "http://yutongliu.github.io/custom-canonical_url"
 toc: true
 toc_label: "On this page"

@@ -5,7 +5,7 @@ toc: true
 toc_label: "本页目录"
 toc_sticky: true
 header:
-  teaser: /assets/images/lacto-ferment-ylbeans-recipe1/teaser.jpg
+  teaser: /assets/images/lacto-ferment-ylbeans-recipe1/teaser.JPG
 sidebar:
   nav: "lacto_ferment_cn"
 tags:
@@ -15,6 +15,6 @@ tags:
 
 (待完善)
 
-#**肉末酸豆角**#
-#**简易版**#
-#**完整版**#
+#肉末酸豆角
+#简易版
+#完整版

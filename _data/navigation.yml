@@ -13,88 +13,88 @@ cp_cn:
   - title: 中式面点
     children:
       - title: "挤饺子"
-        url: /2024/07/16/cp-fold-dumpling1-cn/
+        url: /2024/07/16/cp-fold-dumpling1-cn
       - title: "果仁月饼"
-        url: /2025/10/08/cp-mixednuts-mooncake-cn/
+        url: /2025/10/08/cp-mixednuts-mooncake-cn
 
 cp_cn:
   - title: Chinese Pastry
     children:
       - title: "Fold a Dumpling"
-        url: /2024/07/16/cp-fold-dumpling1-en/
+        url: /2024/07/16/cp-fold-dumpling1-en
       - title: "Mixed Nuts Mooncakes"
-        url: /2025/10/08/cp-mixednuts-mooncake-en/
+        url: /2025/10/08/cp-mixednuts-mooncake-en
 # claypot
 claypot_cn:
   - title: 煲仔饭基础
     children:
       - title: "土砂锅煮白饭"
-        url: /2025/05/30/claypot-claypot-rice-cn/
+        url: /2025/05/30/claypot-claypot-rice-cn
       - title: "大灶眼煮饭"
-        url: /2025/06/25/claypot-stovetop-rice-cn/
+        url: /2025/06/25/claypot-stovetop-rice-cn
       - title: "铸铁锅煮饭"
-        url: /2025/06/26/claypot-castiron-rice-cn/
+        url: /2025/06/26/claypot-castiron-rice-cn
       - title: "杂粮饭"
-        url: /2025/06/27/claypot-multirice-cn/
+        url: /2025/06/27/claypot-multirice-cn
       - title: "不锈钢锅煮饭"
-        url: /2025/06/28/claypot-stainless-rice-cn/
+        url: /2025/06/28/claypot-stainless-rice-cn
   - title: 煲仔饭食谱
     children:
       - title: "腊味煲仔饭"
-        url: /2025/06/29/claypot-sausage-rice-cn/
+        url: /2025/06/29/claypot-sausage-rice-cn
 
 claypot_en:
   - title: Claypot Rice 101
     children:
       - title: "Claypot White Rice"
-        url: /2025/05/30/claypot-claypot-rice-en/
+        url: /2025/05/30/claypot-claypot-rice-en
       - title: "On a Powerful Stovetop"
-        url: /2025/06/25/claypot-stovetop-rice-en/
+        url: /2025/06/25/claypot-stovetop-rice-en
       - title: "Using a Castiron Skillet"
-        url: /2025/06/26/claypot-castiron-rice-en/
+        url: /2025/06/26/claypot-castiron-rice-en
       - title: "Multigrain-Rice"
-        url: /2025/06/27/claypot-multirice-en/
+        url: /2025/06/27/claypot-multirice-en
       - title: "Using a Stainless-Steel Pan"
-        url: /2025/06/28/claypot-stainless-rice-en/
+        url: /2025/06/28/claypot-stainless-rice-en
   - title: Claypot rice recipes
     children:
       - title: "Chinese-Sausage Claypot rice"
-        url: /2025/06/29/claypot-sausage-rice-en/
+        url: /2025/06/29/claypot-sausage-rice-en
 
 # lacto fermenttion
 lacto_cn:
   - title: 乳酸发酵基础
     children:
       - title: "发酵蔬菜基础"
-        url: /2025/08/06/lacto-basics-cn/
+        url: /2025/08/06/lacto-basics-cn
   - title: 发酵蔬菜食谱及应用
     children:
       - title: "发酵酸豆角"
-        url: /2025/08/07/lacto-ferment-ylbeans-cn/
+        url: /2025/08/07/lacto-ferment-ylbeans-cn
       - title: "酸豆角拌粉"
-        url: /2025/08/08/lacto-ferment-ylbeans-recipe1-cn/
+        url: /2025/08/08/lacto-ferment-ylbeans-recipe1-cn
 
 lacto_en:
   - title: Lacto-Fermentation 101
     children:
       - title: "Fermenting Vegetables 101"
-        url: /2025/08/06/lacto-basics-en/
+        url: /2025/08/06/lacto-basics-en
   - title: Recipes
     children:
       - title: "Fermenting Yard-Long Beans"
-        url: /2025/08/07/lacto-ferment-ylbeans-en/
+        url: /2025/08/07/lacto-ferment-ylbeans-en
       - title: "Rice Noodle bowl with stir-fried fermented yard-long beans"
-        url: /2025/08/08/lacto-ferment-ylbeans-recipe1-en/
+        url: /2025/08/08/lacto-ferment-ylbeans-recipe1-en
 
 # pasta
 pasta_cn:
   - title: 意面食谱
     children:
       - title: "茄汁咸菜拌面"
-        url: /2025/10/28/pasta-puttanesca-cn/
+        url: /2025/10/28/pasta-puttanesca-cn
 
 pasta_en:
   - title: Pasta Recipes
     children:
       - title: "Pasta Puttanesca"
-        url: /2025/10/28/pasta-puttanesca-en/
+        url: /2025/10/28/pasta-puttanesca-en
