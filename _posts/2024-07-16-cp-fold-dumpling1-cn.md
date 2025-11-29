@@ -28,37 +28,37 @@ tag:
 
 之前挤得饺子，外观上不饱满，边缘的皮向前耷拉着，重心不稳的样子。
 
-![改进前 没睡醒的样子](/assets/images/cp-fold-dumpling1/20240716_2.jpg "没睡醒的饺子")
+![改进前 没睡醒的样子](/assets/images/cp-fold-dumpling1/20240716_2.JPG "没睡醒的饺子")
 
 
 改进后挺拔了不少，侧面看也前后对称。
 
-![改进后 精神抖擞的饺子](/assets/images/cp-fold-dumpling1/20240716_3.jpg "改进后 精神抖擞的饺子")
+![改进后 精神抖擞的饺子](/assets/images/cp-fold-dumpling1/20240716_3.JPG "改进后 精神抖擞的饺子")
 
 
 改进前后手法的差异，用纸片做演示的话，
 
-![演示用纸](/assets/images/cp-fold-dumpling1/20240716_4.jpg "演示用纸")
+![演示用纸](/assets/images/cp-fold-dumpling1/20240716_4.JPG "演示用纸")
 
 
 用虎口捏住皮挤的时候，两个拇指指甲相对。
 
-![改进前手法 正面](/assets/images/cp-fold-dumpling1/20240716_5.jpg "改进前手法 正面")
+![改进前手法 正面](/assets/images/cp-fold-dumpling1/20240716_5.JPG "改进前手法 正面")
 
 
 换个视角，饺子皮上边缘被弯成了U形。
 
-![改进前手法 俯视](/assets/images/cp-fold-dumpling1/20240716_6.jpg "改进前手法 俯视")
+![改进前手法 俯视](/assets/images/cp-fold-dumpling1/20240716_6.JPG "改进前手法 俯视")
 
 
 改进后，两个拇指指甲是平行的。
 
-![改进后手法 正面](/assets/images/cp-fold-dumpling1/20240716_7.jpg "改进后手法 正面")
+![改进后手法 正面](/assets/images/cp-fold-dumpling1/20240716_7.JPG "改进后手法 正面")
 
 
 饺子皮上边缘是直的，就像帮它伸懒腰一样。
 
-![改进后手法 俯视](/assets/images/cp-fold-dumpling1/20240716_8.jpg "改进后手法 俯视")
+![改进后手法 俯视](/assets/images/cp-fold-dumpling1/20240716_8.JPG "改进后手法 俯视")
 
 
 获得Aha moment的喜悦，就像这个挤好的饺子。
