@@ -1,6 +1,6 @@
 ---
 title: "One Way to Fold a Chinese Dumpling"
-canonical_url: "http://yutongliu.github.io/custom-canonical_url"
+canonical_url: "http://gtxb.github.io/custom-canonical_url"
 header:
   teaser: /assets/images/cp-fold-dumpling1/20240716_1.jpg
 sidebar:

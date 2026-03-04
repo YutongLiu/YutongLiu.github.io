@@ -1,6 +1,6 @@
 ---
 title: "发酵酸豆角"
-canonical_url: "http://yutongliu.github.io/custom-canonical_url"
+canonical_url: "http://gtxb.github.io/custom-canonical_url"
 toc: true
 toc_label: "本页目录"
 toc_sticky: true

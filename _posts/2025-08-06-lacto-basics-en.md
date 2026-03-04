@@ -1,6 +1,6 @@
 ---
 title: "Lacto-Fermentation 101"
-canonical_url: "http://yutongliu.github.io/custom-canonical_url"
+canonical_url: "http://gtxb.github.io/custom-canonical_url"
 toc: true
 toc_label: "On this page"
 toc_sticky: true

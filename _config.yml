@@ -21,9 +21,9 @@ title_separator          : "|" # SEO-friendly (search engine optimization)
 subtitle                 : # "烹饪博客 食谱 cooking blog recipes" # site tagline that appears below site title in masthead
 name                     : "钢铁小包"
 description              : " "
-url                      : #"https://yutongliu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : #"https://gtxb.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"/GTXB" # the subpath of your site, e.g. "/blog" 本地运行时不加
-repository               : #"YutongLiu/YutongLiu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : #"gtxb/gtxb.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/splash1.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #"/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : #"GTXB" # overrides the website title displayed in the masthead, use " " for no title
@@ -121,13 +121,13 @@ author:
       url: "https://xhslink.com/m/m2FNE63wtB"
     - label: "微信公众号"
       icon: "fa-brands fa-weixin"
-      url: "https://yutongliu.github.io/"
+      url: "https://gtxb.github.io/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/stellalalala414"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/YutongLiu/"
+      url: "https://github.com/gtxb/"
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
     #   url: "gtxb250525@qq.com"
@@ -158,7 +158,7 @@ footer:
       url: "/about/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/YutongLiu/"
+      url: "https://github.com/gtxb/"
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "铸铁锅煮饭"
-canonical_url: "http://yutongliu.github.io/custom-canonical_url"
+canonical_url: "http://gtxb.github.io/custom-canonical_url"
 toc: true
 toc_label: "铸铁锅煮饭"
 toc_sticky: true
